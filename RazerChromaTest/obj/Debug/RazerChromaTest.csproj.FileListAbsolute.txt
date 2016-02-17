@@ -1,0 +1,13 @@
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\RazerChromaTest.exe.config
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\RazerChromaTest.exe
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\RazerChromaTest.pdb
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\Corale.Colore.dll
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\log4net.dll
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\Corale.Colore.xml
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\bin\Debug\log4net.xml
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\obj\Debug\RazerChromaTest.csprojResolveAssemblyReference.cache
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\obj\Debug\RazerChromaTest.Form1.resources
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\obj\Debug\RazerChromaTest.Properties.Resources.resources
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\obj\Debug\RazerChromaTest.csproj.GenerateResource.Cache
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\obj\Debug\RazerChromaTest.exe
+s:\libraries\documents\visual studio 2015\Projects\RazerChromaTest\RazerChromaTest\obj\Debug\RazerChromaTest.pdb
